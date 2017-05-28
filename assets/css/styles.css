@@ -1,0 +1,30 @@
+#logo{
+	font-size: 2em;
+	font-weight:bold; 
+	color: grey;
+	padding-left:10px;
+}
+
+.nav.nav-pills {
+	max-width:30%;
+}
+
+.tabcell {
+  padding: 10px;
+	border: 1px solid grey;
+	background-color: #dfd2c3
+}
+
+.tabrow {
+	padding: 10px;
+	border: 1px solid grey;
+	background-color: 	#b18f6a
+}
+
+.even{
+	background-color:#ceb9ff
+}
+
+.odd{
+	background-color: #cee9ff
+}
